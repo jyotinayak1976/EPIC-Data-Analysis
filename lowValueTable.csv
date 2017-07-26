@@ -1,0 +1,42 @@
+,company,station,percentlowvalue
+0,ACC Limited,CEMS-3,0.982373072054756
+1,ACC Limited,stack1,0.9372265035046277
+2,Adhunik Metaliks Ltd.,CEMS-11,0.9136752136752136
+3,Aditya Aluminium (A Unit of Hindalco Industries Limited),CEMS-5,0.9735927727588604
+4,Aditya Aluminium (A Unit of Hindalco Industries Limited),CEMS-7,1.0
+5,Aditya Aluminium (A Unit of Hindalco Industries Limited),CEMS-8,1.0
+6,BRG Iron and Steel Co. Pvt. Ltd.,CEMS-3,1.0
+7,Bhushan Power and Steel Limited,DRI-7,0.9968102073365231
+8,Bhushan Steel Limited,st1,1.0
+9,Birla Tyres,CEMS-1,1.0
+10,Essar Steel India Limited,CEMS-1,0.9159729367380662
+11,"HINDALCO Ltd., FRP Plant",CEMS-1,0.852385018909357
+12,"HINDALCO Ltd., FRP Plant",CEMS-3,0.8737438804431847
+13,"HINDALCO Ltd.,Captive Power Plant",st1,0.8333333333333334
+14,"HINDALCO Ltd.,Smelter Plant",FTP4,0.9722617354196301
+15,"HINDALCO Ltd.,Smelter Plant",st1,0.9953382368175697
+16,"HINDALCO Ltd.,Smelter Plant",st2,0.9805754648384751
+17,"HINDALCO Ltd.,Smelter Plant",st3,0.9995731967562953
+18,"HINDALCO Ltd.,Smelter Plant",st4,0.8911232404481471
+19,Jai Balaji Jyoti Steels Limited,CEMS-1,0.9668478260869565
+20,Jai Hanuman Udyog Ltd.,CEMS-1,0.9257007767646066
+21,Jindal Stainless Ltd,CEMS-4,0.9341666121327138
+22,Jindal Steel and Power Limited,CEMS-11,1.0
+23,Jindal Steel and Power Limited,RHF-stack,1.0
+24,Jindal Steel and Power Limited,st5,0.9604414504801491
+25,Kapilas Cement Manufacturing Works (A unit of OCL India Ltd),CEMS-1,0.9545049945603797
+26,MSP Metalics Limited,CEMS-8,1.0
+27,"NALCO Ltd.,Smelter Plant",CEMS-5,0.8633669977464319
+28,"NALCO Ltd.,Smelter Plant",GTC-8,0.8501997915218902
+29,"OCL India Ltd,Cement Unit",Stack-3,0.8654778664163929
+30,"OCL India Ltd,Cement Unit",Stack-8,0.9578719306692345
+31,Pawanjay Sponge Iron Limited,CEMS-1,1.0
+32,Sesa Sterlite Ltd (Smelter and CPP),CEMS-11,0.9829295717060207
+33,Sesa Sterlite Ltd (Smelter and CPP),CEMS-12,1.0
+34,Sesa Sterlite Ltd (Smelter and CPP),CEMS-13,1.0
+35,Sesa Sterlite Ltd (Smelter and CPP),CEMS-14,1.0
+36,Sesa Sterlite Ltd (Smelter and CPP),CEMS-15,0.9338154062468615
+37,Sesa Sterlite Ltd (Smelter and CPP),CEMS-16,0.9972011195521792
+38,Sesa Sterlite Ltd (Smelter and CPP),CEMS-5,0.9928001772264068
+39,Sesa Sterlite Ltd (Smelter and CPP),CEMS-6,0.9777599449730597
+40,Vedanta Ltd.,CEMS-3,1.0
